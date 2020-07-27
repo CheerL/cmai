@@ -1,0 +1,10 @@
+.footer-box {
+    text-align: center;
+}
+
+.ant-layout-footer {
+    min-height: 3rem;
+    line-height: unset;
+    padding: 1rem 2rem;
+    height: auto;
+}

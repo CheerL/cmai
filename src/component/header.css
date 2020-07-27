@@ -1,0 +1,30 @@
+.header-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ant-layout-header {
+    background-color: #111111;
+    min-height: 3rem;
+    line-height: unset;
+    padding: 1rem 2rem;
+    height: auto;
+}
+
+.header-box a {
+    color: lightgray;
+}
+
+.logo-prefix {
+    font-size: 14px;
+    /* color: #aaaaaa; */
+}
+
+.ant-dropdown-menu {
+    background-color: #222222;
+}
+
+.ant-dropdown-menu-item > a {
+    color: lightgray;
+}

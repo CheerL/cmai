@@ -1,0 +1,36 @@
+.home {
+    height: 100%;
+    background-image: url('../img/background.jpg');
+    background-size: auto 100%;
+    background-color: black;
+    background-position: right;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.home-mask {
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: normal;
+}
+
+.main-title {
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+
+.sub-title {
+    font-size: 1.2rem;
+}
+
+.line {
+    content: '';
+    background-color: white;
+    height: 2px;
+    width: 10rem;
+    min-width: 5rem;
+}
